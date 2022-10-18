@@ -1,0 +1,1 @@
+Here are my works created for the practical study of the Data Science profession. Starting from basic Python knowledge, to neural networks.
